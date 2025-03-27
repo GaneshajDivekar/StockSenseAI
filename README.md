@@ -93,6 +93,3 @@ Made with ❤️ by Ganesh Divekar
 Inspired by real-world trading tools and AI innovation
 ```
 
----
-
-Let me know if you want a lighter version or if you want me to generate a logo/banner for the README too!
