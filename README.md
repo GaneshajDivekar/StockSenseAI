@@ -90,6 +90,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Credits
 
 Made with ❤️ by Ganesh Divekar  
-Inspired by real-world trading tools and AI innovation
-```
-
